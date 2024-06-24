@@ -1,0 +1,3 @@
+/home/lingyin/myCode/hw_102/all/code3/build/CMakeFiles/code3.dir
+/home/lingyin/myCode/hw_102/all/code3/build/CMakeFiles/edit_cache.dir
+/home/lingyin/myCode/hw_102/all/code3/build/CMakeFiles/rebuild_cache.dir

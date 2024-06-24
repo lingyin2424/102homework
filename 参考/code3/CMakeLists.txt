@@ -1,0 +1,8 @@
+project(code3 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+find_package(Eigen3 REQUIRED)
+include_directories(${EIGEN3_INCLUDE_DIR})
+find_package(Qt5 COMPONENTS Widgets REQUIRED)
+add_executable(code3 code3.cpp)
+target_link_libraries(code3 Qt5::Widgets)
+target_link_libraries(code3 Eigen3::Eigen)
